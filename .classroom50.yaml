@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "indprog"
+assignment: "i-know-flowchart"
+owner:
+  username: "ninajorbin"
+  id: 259578601
+  accepted_at: "2026-08-31T14:43:41Z"
+source:
+  owner: "geko-crooms"
+  owner_id: 316422449
+  repo: "i-know-flowchart"
+  branch: "main"
